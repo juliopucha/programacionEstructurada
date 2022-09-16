@@ -1,2 +1,9 @@
-Aquí está el tema de pseudocódigos, y diagramas de flujo,
+-Aquí está el tema de pseudocódigos, y diagramas de flujo,
 organigramas, o flujogramas.
+
+-En el pdf o libro de Joyanes (4ta. Edición) se pone más énfasis desde el capítulo 2. El capítulo 18
+ también es interesante y tiene que ver con el "Diseño de Software".
+
+-Se puede usar el programa o herramienta PSeInt para comprobar y estudiar flujogramas.
+
+
